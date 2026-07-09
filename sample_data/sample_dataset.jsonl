@@ -1,0 +1,8 @@
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris.", "label": "geography"}
+{"prompt": "What is the capital of France?", "response": "The capital of France is Paris.", "label": "geography"}
+{"prompt": "What is the capital of Germany", "response": "The capital of Germany is Berlin", "label": "geography"}
+{"prompt": "What is the capital of Germany", "response": "The capital of Germany is Berlin indeed", "label": "geography"}
+{"prompt": "Summarize the plot of the given novel in detail, covering each character arc, the central themes, the setting, and how the narrative resolves across all major plot threads.", "response": "This is a long detailed summary of a novel with many characters and themes explored at length across many words to make it long enough to be a length outlier compared to the rest of the dataset.", "label": "summarization"}
+{"prompt": "Translate 'hello' to Spanish.", "response": "", "label": "translation"}
+{"prompt": "What is 2+2?", "response": "4", "label": "math"}
+{"prompt": "What is 3+3?", "response": "6", "label": "math"}
